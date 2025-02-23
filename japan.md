@@ -62,10 +62,43 @@ https://www.google.com/maps/d/edit?mid=19RNAC6sNB8I5DRnrGydQzJbExJqcN5M&ll=35.67
 - [ ] Omoide yokocho: bar district Shinjuku
 - [x] Golden Gai: Golden Gai is a collection of mismatched, tumbledown bars lining alleyways in a darkened corner of Shinjuku.
 
+##### Clubs
+https://www.reddit.com/r/Tokyo/comments/1e3lrdg/a_music_lovers_guide_to_tokyo_nightclubs/?rdt=51573
+- Hatagaya:
+	- [ ] Forestlimit
+- Asagaya:
+	- [ ] Drift
+- Ebisu:
+	- [ ] Batica
+- Shinjuku:
+	- [ ] Space
+- Shibuya:
+	- [ ] Clubasia
+	- [ ] Enter
+	- [ ] Hachi
+	- [ ] WWWβ
+	- [ ] Vent
+- Harajuku:
+	- [ ] Bonobo
+- Shimokitazawa:
+	- [ ] Counter club
+	- [ ] Spread
+	- [ ] Live Haus
+	- [ ] Cream
+- Nakameguro:
+	- [ ] Solfa
+- Sasazuka:
+	- [ ] Zookid
+
 ##### Sports
 - [ ] Sumo:
 	- [x] Ryogoku kokugikan: no sumo in November (?). It also includes a sumo museum.
 	- [x] National sumo tournament in Fukuoka (9-25 November). Requires a flight to Fukuoaka.
+		- A sumo tournament day starts at 8AM and ends at 6PM. Tournament tickets are valid throughout the day. Boxes fit 4 people.
+		- Lower divisions wrestle earlier. Top division (Makuuchi) starts around 3pm.
+		- If possible, try to see Hoshoryu Byambasuren, the only active yokozuna (highest sumo rank) in 2025 (higher ranked wrestlers should wrestle on a daily basis)
+		- Tickets for weekdays should be relatively easy to obtain.
+		- https://www.sumo.or.jp/pdf/en/guide_english.pdf
 	- [ ] Sumoexperience: Possibility to check out a morning practice with sumoexperience.com
 - [ ] Baseball:
 	- Japan Series (Championship): Late October to early November
@@ -101,9 +134,9 @@ https://www.google.com/maps/d/edit?mid=19RNAC6sNB8I5DRnrGydQzJbExJqcN5M&ll=35.67
 - [ ] Shuriken throwing: Ninja Asakasa
 - [ ] Tattoo
 - [ ] Ninja akasaka (ninja dinner)
-- [ ] Samurai shit
+- [ ] Ninja/Samurai lessons: https://ninjasamurai.tokyo/
 - [x] Karaoke met locals
-- [ ] Tokyo drift 
+- [ ] Tokyo drift: https://niche-tours.com/tour-packages/
 - [ ] Climate change disaster prepation
 - [ ] High rise bar
 - [x] Onsen(hot spring) (Mt Fuji)
